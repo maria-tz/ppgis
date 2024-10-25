@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Pedieos_landmarks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "WKT": "POINT (531296.176672599 3889086.12611864)", "id": "01", "Text": "Strovolos Town Hall" }, "geometry": { "type": "Point", "coordinates": [ 33.343568612368358, 35.144178591099319 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531011.707996991 3889314.88369006)", "id": "02", "Text": "Panayia Chryseleousis" }, "geometry": { "type": "Point", "coordinates": [ 33.340454361888867, 35.146250126990346 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531023.276201301 3889356.23662066)", "id": "03", "Text": "NOUS Hub" }, "geometry": { "type": "Point", "coordinates": [ 33.340582912057954, 35.146622652120037 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531288.902194774 3889251.41817363)", "id": "04", "Text": "Ayia Marina Primary School" }, "geometry": { "type": "Point", "coordinates": [ 33.343495016806578, 35.145669266405569 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531359.444526438 3889408.40943107)", "id": "05", "Text": "76th Scouts System" }, "geometry": { "type": "Point", "coordinates": [ 33.344275391929116, 35.147082668334079 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531673.06366685 3889807.33035146)", "id": "06", "Text": "Strovolos Police Station" }, "geometry": { "type": "Point", "coordinates": [ 33.34773366272703, 35.150669928465248 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531014.271684233 3889857.8021128)", "id": "07", "Text": "Keravnos Strovolou Stadium" }, "geometry": { "type": "Point", "coordinates": [ 33.340502898301388, 35.151145576148281 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (530705.873405984 3888737.8768787)", "id": "08", "Text": "Strovolos Bus Station" }, "geometry": { "type": "Point", "coordinates": [ 33.337075432884845, 35.141056602303856 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531299.599493307 3889359.08092895)", "id": "09", "Text": "Ayia Marina Church" }, "geometry": { "type": "Point", "coordinates": [ 33.343616532244681, 35.14663973511891 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (527016.00256015 3885512.09175528)", "id": "10", "Text": "3rd Lakatamias Primary School" }, "geometry": { "type": "Point", "coordinates": [ 33.296464759632315, 35.112075170946525 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (526838.580959775 3885915.44867489)", "id": "11", "Text": "Ayios Neofytos Public Kindergarten" }, "geometry": { "type": "Point", "coordinates": [ 33.294530903981808, 35.115717047558206 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (527146.296547925 3885929.30973741)", "id": "12", "Text": "Ayios Georgios High School" }, "geometry": { "type": "Point", "coordinates": [ 33.297908238929573, 35.115833782883485 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (527354.212485864 3886478.20781357)", "id": "12", "Text": "Lakatamias Health Center" }, "geometry": { "type": "Point", "coordinates": [ 33.300208073764516, 35.120777645513122 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (529252.484999249 3888107.92224045)", "id": "13", "Text": "PAEEK Pedestrian Bridge" }, "geometry": { "type": "Point", "coordinates": [ 33.3210987036719, 35.135419570449493 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (529523.055753673 3887006.75591334)", "id": "14", "Text": "METRO  Supermarket" }, "geometry": { "type": "Point", "coordinates": [ 33.324029327033138, 35.125482335144717 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531643.095941158 3890346.1886149)", "id": "15", "Text": "Presidetial Palace" }, "geometry": { "type": "Point", "coordinates": [ 33.347425311472882, 35.155529782684667 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (532023.056678377 3892408.53106081)", "id": "17", "Text": "Supreme Court" }, "geometry": { "type": "Point", "coordinates": [ 33.351677064938173, 35.174113943517526 ] } },
+{ "type": "Feature", "properties": { "WKT": "POINT (531964.303490307 3891617.82573034)", "id": "16", "Text": "Gladstonos kai Dimou Idofotou bridge" }, "geometry": { "type": "Point", "coordinates": [ 33.35100120684654, 35.166986010961779 ] } }
+]
+}
