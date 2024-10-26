@@ -1,1 +1,5 @@
+media/
 myenv2
+*.pyc
+
+db.sqlite3
