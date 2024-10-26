@@ -142,7 +142,7 @@ MEDIA_URL = '/media/'
 
 
 if "RENDER" in os.environ:
-    STATIC_ROOT = BASE_DIR / "staticfiles"
+    STATIC_ROOT = os.path.join(BASE_DIR,"staticfiles")
     STORAGES = {
         # ...
         "staticfiles": {
